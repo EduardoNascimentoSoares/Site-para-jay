@@ -1,8 +1,11 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@400..700&family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Oswald:wght@200..700&family=Passion+One:wght@400;700;900&family=Passions+Conflict&family=Sriracha&display=swap');
+
 :root {
-    --fonteDestaque: arial, sans-serif;
-    --fonteComum: cursive, sans-serif;
+    --fonteDestaque: 'Passion One', arial, sans-serif;
+    --fonteComum: 'Sriracha', arial, sans-serif;
     --corHeader: black;
     --corBody: rgba(169, 169, 169, 0.322);
 }
@@ -31,6 +34,7 @@ header>h1 {
     font-variant: small-caps;
     font-size: 8vw;
     font-family: var(--fonteDestaque);
+    font-weight: bold;
 }
 
 section{
@@ -39,6 +43,7 @@ section{
     padding-left: 15px;
     line-height: 2em;
     font-size: 4vw;
+    font-weight: bold;
 }
 
 .imagem{
