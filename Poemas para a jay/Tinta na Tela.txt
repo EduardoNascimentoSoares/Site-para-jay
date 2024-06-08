@@ -39,12 +39,12 @@ Servirá, jamais!
 
 
 Links dos poemas:
--*incompreensível* -> Cabelos Incompreensíveis
--*bits* -> Bits e Bytes
--*energiza* -> Cafeina
--*liberdade* -> Borboletas, Flores e o Impossível
--*sentimentos* -> Sentimentos Descritos
--*lembraça* -> As Datas Mais Importantes
--*faz* e *fez* -> Fez e Faz
--*amor* -> Poema sobre Amor
--*nós* -> Coexistência
+-*incompreensível* -> Cabelos Incompreensíveis (1)
+-*bits* -> Bits e Bytes (2)
+-*energiza* -> Cafeina (3)
+-*liberdade* -> Borboletas, Flores e o Impossível (4)
+-*faz* e *fez* -> Fez e Faz (5)
+-*sentimentos* -> Sentimentos Descritos (6)
+-*lembraça* -> As Datas Mais Importantes (7)
+-*amor* -> Poema sobre Amor (8)
+-*nós* -> Coexistência (9)
