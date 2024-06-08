@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+:root {
+    --fonteDestaque: arial, sans-serif;
+    --fonteComum: arial, sans-serif;
+}
+
+* {
+    margin: 0;
+    height: 0;
+}
