@@ -80,6 +80,15 @@ section>p>a:hover{
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.24);
     text-shadow: .5px .5px 0px black;
+    color: rgb(207, 204, 204);
+}
+
+#img1{
+    background-image: url(../images/rosto.png);
+}
+
+#img2{
+    background-image: url(../images/sapo.png);
 }
 
 footer{
