@@ -47,7 +47,10 @@ section, section>p{
 }
 
 section>p>a{
+    padding: 5px;
     text-decoration: none;
+    background-color: rgba(68, 66, 66, 0.171);
+    border-radius: 5px;
     color: rgba(68, 66, 66, 0.829);
 }
 
