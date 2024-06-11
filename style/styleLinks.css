@@ -54,6 +54,10 @@ section>p>a{
     color: rgba(68, 66, 66, 0.829);
 }
 
+section>p>a::before{
+        content: '\00a0\1f517';
+}
+
 section>p>a:hover{
     padding: 5px;
     background-color: rgba(128, 128, 128, 0.644);
