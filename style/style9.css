@@ -34,69 +34,37 @@ header>h1 {
     font-variant: small-caps;
     font-size: 8vw;
     font-family: var(--fonteDestaque);
-    font-weight: bold;
 }
 
-section, section>p{
-    padding-top: 10%;
-    padding-bottom: 10%;
+section,
+section>p {
+    padding-top: 5%;
+    padding-bottom: 5%;
     padding-left: 15px;
     line-height: 2em;
     font-size: 4vw;
-    font-weight: bold;
 }
 
-section>p>a{
-    padding: 5px;
-    text-decoration: none;
-    background-color: rgba(68, 66, 66, 0.171);
-    border-radius: 5px;
-    color: rgba(68, 66, 66, 0.829);
-}
-
-section>p>a::before{
-        content: '\00a0\1f517';
-}
-
-section>p>a:hover{
-    padding: 5px;
-    background-color: rgba(128, 128, 128, 0.644);
-    color: rgb(241, 234, 234);
-    border-radius: 5px;
-    cursor: pointer;
-    transition: .3s;
-}
-
-.imagem{
+.imagem {
     background-color: aliceblue;
-    background-image: none;
+    background-image: url(../images/olhos.png);
     background-size: cover;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.514);
     background-attachment: fixed;
 }
 
-.imagem>p{
+.imagem>p {
     display: inline-block;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.24);
     text-shadow: .5px .5px 0px black;
-    color: rgb(207, 204, 204);
+    color: white;
 }
 
-#img1{
-    background-image: url(../images/rosto.png);
-}
-
-#img2{
-    background-image: url(../images/sapo.png);
-    background-position: center center;
-}
-
-footer{
+footer {
     text-align: center;
     color: white;
     background-color: black;
     padding: 5px;
     font-size: 2.5vw;
 }
-
